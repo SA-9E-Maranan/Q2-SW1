@@ -63,21 +63,21 @@ th {
 	font-size: 25px;
 }
 
-.nagi2 {
+#nagi2 {
 	width: 150px;
 	height: 200px;
 	margin-right: 150px;
 	margin-bottom: -8px;
 }
 
-.reo2 {
+#reo2 {
 	width: 180px;
 	height: 200px;
 	margin-right: 150px;
 	margin-bottom: -8px;
 }
 
-.chigiri2 {
+#chigiri2 {
 	width: 160px;
 	height: 200px;
 	margin-right: 150px;
