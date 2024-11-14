@@ -14,8 +14,8 @@ table {
 img {
 	width: 370px;
 	height: 300px;
-	margin-top: 50px;
-	margin-bottom: -50px;
+	margin-top: 30px;
+	margin-bottom: -30px;
 	margin-left: -50px;
 	margin-right: -50px;
 }
@@ -61,25 +61,4 @@ th {
 	font-family: Doto;
 	font-weight: bold;
 	font-size: 25px;
-}
-
-#nagi2 {
-	width: 150px;
-	height: 200px;
-	margin-right: 150px;
-	margin-bottom: -8px;
-}
-
-#reo2 {
-	width: 180px;
-	height: 200px;
-	margin-right: 150px;
-	margin-bottom: -8px;
-}
-
-#chigiri2 {
-	width: 160px;
-	height: 200px;
-	margin-right: 150px;
-	margin-bottom: -8px;
 }
