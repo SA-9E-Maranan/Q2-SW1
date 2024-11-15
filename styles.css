@@ -14,10 +14,12 @@ table {
 img {
 	width: 370px;
 	height: 300px;
-	margin-top: 20px;
+	margin-top: 15px;
 	margin-bottom: -30px;
 	margin-left: -50px;
 	margin-right: -50px;
+	max-width: 800px;
+	max-height: 800px;
 }
 
 .title {
